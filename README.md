@@ -1,4 +1,4 @@
-```css
+```ts
 const who : { name: string, alsoKnownAs: string } =
 {
   name :"Shohaibur Rahman",
